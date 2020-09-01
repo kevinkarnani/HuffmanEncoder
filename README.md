@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a modified and upgraded version of a Huffman encoder I wrote for my data structures class.
+This is a modified and upgraded version of a Huffman encoder I wrote for my Data Structures class.
 
 ## Getting Started
 
